@@ -5,7 +5,7 @@
     <string name="sin_alumnos_warning">You must to choose someone from the list</string>
 
     <string-array name="alumnos">
-        <item>Juan Pablo</item>
+        <item>Ricardo Tapia</item>
         <item>Marcelo Tinelli</item>
         <item>Tony Kamo</item>
         <item>Anakin Skywalker</item>
@@ -14,11 +14,6 @@
         <item>Bruno Diaz</item>
         <item>Martin McFly</item>
         <item>Adam West</item>
-        <item>Arturo Ilia</item>
-        <item>Ricardo Tapia</item>
-        <item>Belen Gualarga</item>
-        <item>Isaac A Mocos</item>
-        <item>Florencia Pena</item>
     </string-array>
 
 </resources>
