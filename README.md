@@ -24,10 +24,10 @@ change.
 
 On the default portrait layout I'm going to distribute the two fragments in the same layout, one above the other one. 
 
-![Portrait Layout](https://dl.dropboxusercontent.com/u/5130730/Github/fragment-port.png)
+![Portrait Layout](https://s3-us-west-2.amazonaws.com/paveliz-github-images/fragment-port.png)
 
 But when you change to landscape, I'm going to distribute in a diferent way, next to each other:
 
-![Landscape View](https://dl.dropboxusercontent.com/u/5130730/Github/fragment-land.png)
+![Landscape View](https://s3-us-west-2.amazonaws.com/paveliz-github-images/fragment-land.png)
 
 On any case, both fragments will continue working and interacting each other without any problem.
