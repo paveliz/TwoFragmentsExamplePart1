@@ -1,8 +1,8 @@
 # TwoFragmentsExamplePart1
 
-This is a very simple example about how to manipulate two fragments with diferent main layouts.
+This is a very simple example of how to manipulate two fragments with different main layouts.
 
-The main objective of these example is:
+The main objective of this example is:
 
 - Show "how two" fragments interaction.
 - Show "how to" manipulate the "landscape" layout change also combining two fragments.
@@ -26,7 +26,7 @@ On the default portrait layout I'm going to distribute the two fragments in the 
 
 ![Portrait Layout](https://s3-us-west-2.amazonaws.com/paveliz-github-images/fragment-port.png)
 
-But when you change to landscape, I'm going to distribute in a diferent way, next to each other:
+But when you change to landscape, I'm going to distribute in a different way, next to each other:
 
 ![Landscape View](https://s3-us-west-2.amazonaws.com/paveliz-github-images/fragment-land.png)
 
